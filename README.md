@@ -42,8 +42,8 @@ Once you've installed the plugin, add layer(s) for each function:
 ```yml
 layers:
   lib:
-    path: lib
-    name: node-modules
+    path: node-modules
+    name: lib
     description: My node modules
     retain: true
     
